@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/riyawordle/static/css/main.2b9f3371.css",
+    "main.css": "/riyawordle/static/css/main.e0580650.css",
     "main.js": "/riyawordle/static/js/main.c8d752c3.js",
     "static/js/787.b7eb5c8c.chunk.js": "/riyawordle/static/js/787.b7eb5c8c.chunk.js",
     "static/media/wordle-bank.txt": "/riyawordle/static/media/wordle-bank.dd4688ffccaa2d4e5b56.txt",
     "index.html": "/riyawordle/index.html",
     "static/media/riya-word.txt": "/riyawordle/static/media/riya-word.0b2e20b07a30932594ec.txt",
-    "main.2b9f3371.css.map": "/riyawordle/static/css/main.2b9f3371.css.map",
+    "main.e0580650.css.map": "/riyawordle/static/css/main.e0580650.css.map",
     "main.c8d752c3.js.map": "/riyawordle/static/js/main.c8d752c3.js.map",
     "787.b7eb5c8c.chunk.js.map": "/riyawordle/static/js/787.b7eb5c8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b9f3371.css",
+    "static/css/main.e0580650.css",
     "static/js/main.c8d752c3.js"
   ]
 }
