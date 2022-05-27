@@ -19,7 +19,7 @@ export const generateWordSet = async () => {
 			const wordArr = result.split("\n");
 			const date = new Date();
 			const day = date.getDate();
-			todaysWord = wordArr[Math.floor((day - 8) % 19)];
+			todaysWord = wordArr[Math.floor((day - 9) % 19)];
 		});
 	await fetch(wordBank)
 		.then((response) => response.text())
